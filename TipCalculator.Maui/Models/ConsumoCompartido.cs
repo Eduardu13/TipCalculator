@@ -33,9 +33,5 @@ namespace TipCalculator.Maui.Models
 
 
 
-
-
-
-
     }
 }
